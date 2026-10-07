@@ -1,0 +1,6 @@
+{
+  "name": "Plataforma de Inducción SENA",
+  "description": "Plataforma interactiva de inducción institucional para aprendices del Servicio Nacional de Aprendizaje SENA. Conoce la historia, símbolos, modelo pedagógico FPI, reglamento, bienestar y obtén tu carné y certificado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
